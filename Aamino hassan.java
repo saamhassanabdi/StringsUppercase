@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class C1230740 {
+public class assemt2{
 public static void main(String[] args) {
 Scanner input=new Scanner(System.in);
 System.out.println("Enter 5 strings");
